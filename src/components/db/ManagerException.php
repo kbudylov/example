@@ -2,8 +2,6 @@
 
 namespace app\components\db;
 
-use app\components\RuntimeException;
-
-class ManagerException extends RuntimeException
+class ManagerException extends \Exception
 {
 }
