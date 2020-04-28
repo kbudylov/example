@@ -1,10 +1,4 @@
 <?php
-/**
- * Project: mgkh-server
- * File: Connection.php
- * Author: Konstantin Budylov <k.budylov@gmail.com>
- * Date: 09.12.2019 13:43.
- */
 
 namespace app\components\db;
 

@@ -1,10 +1,4 @@
 <?php
-/**
- * Project: mgkh-server
- * File: AddressParts.php
- * Author: Konstantin Budylov <k.budylov@gmail.com>
- * Date: 06.12.2019 15:58.
- */
 
 namespace app\components\address;
 
